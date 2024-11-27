@@ -1,5 +1,5 @@
 # keen1bot
-A dumb "bot" for commander keen 1 (it just does a whole bunch of keybinds lol)
+A dumb "bot" for commander keen 1 (it just does a whole bunch of keybinds lol and it can only sometimes beat level 1)
 ## requirements
 `keyboard` and root access if on linux
 ## WARNING
